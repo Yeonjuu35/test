@@ -1,0 +1,12 @@
+body {
+  font-family : 'NotoSansKR';
+}
+
+body, a, p, ul, li, h2, h3 {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+li {
+  list-style: none;
+}
